@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment3</string>
+    <string name="password">PASSWORD</string>
+    <string name="get_started">Get Started</string>
+    <string name="not_registered_create_account">Not registered? Create Account</string>
+    <string name="chat">Chat</string>
+</resources>
